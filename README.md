@@ -6,7 +6,7 @@ This website showcases my work, skills, and projects in a clean, responsive layo
 ---
 
 ### 🚀 Live Preview
-👉 [Click here to view my portfolio]([https://sakshith2004.github.io/portfolio](https://sakshith2004.github.io/portfolio/))
+👉 [Click here to view my portfolio](https://sakshith2004.github.io/portfolio/)
 
 ---
 
