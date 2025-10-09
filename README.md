@@ -11,7 +11,7 @@ This website showcases my work, skills, and projects in a clean, responsive layo
 ---
 
 ### 🖼️ Screenshot Preview
-![Portfolio Preview](assets/screenshot.png)
+![Portfolio Preview](preview.png)
 
 *(Tip: Upload a screenshot image named `screenshot.png` inside an `assets` folder or main folder to make it visible here.)*
 
